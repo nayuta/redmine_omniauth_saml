@@ -4,7 +4,9 @@ This plugins adds SAML authentication support for "Redmine":http://www.redmine.o
 
 h2. About this fork
 
-This fork is temporary to fix for Redmine 4.0. When "original":https://github.com/chrodriguez/redmine_omniauth_saml support Redmine 4.0, this repository *will be deleted*.
+It merged! This fork will be used for personal development. Please refer original repository: https://github.com/chrodriguez/redmine_omniauth_saml
+
+~This fork is temporary to fix for Redmine 4.0. When "original":https://github.com/chrodriguez/redmine_omniauth_saml support Redmine 4.0, this repository *will be deleted*.~
 
 h2. Install
 
