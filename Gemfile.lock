@@ -14,7 +14,7 @@ GEM
       omniauth (~> 2.0)
       ruby-saml (~> 1.9)
     racc (1.6.0)
-    rack (2.2.3)
+    rack (2.2.6.3)
     rack-protection (2.1.0)
       rack
     rexml (3.2.5)
